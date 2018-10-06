@@ -1,0 +1,12 @@
+C:\Users\Stylesheet.io\source\repos\TerbilangAppForm\TerbilangLibrary\bin\Debug\TerbilangLibrary.dll
+C:\Users\Stylesheet.io\source\repos\TerbilangAppForm\TerbilangLibrary\bin\Debug\TerbilangLibrary.pdb
+C:\Users\Stylesheet.io\source\repos\TerbilangAppForm\TerbilangLibrary\obj\Debug\TerbilangLibrary.csprojAssemblyReference.cache
+C:\Users\Stylesheet.io\source\repos\TerbilangAppForm\TerbilangLibrary\obj\Debug\TerbilangLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Stylesheet.io\source\repos\TerbilangAppForm\TerbilangLibrary\obj\Debug\TerbilangLibrary.dll
+C:\Users\Stylesheet.io\source\repos\TerbilangAppForm\TerbilangLibrary\obj\Debug\TerbilangLibrary.pdb
+F:\gmly\LeetTerbilang-master\TerbilangLibrary\bin\Debug\TerbilangLibrary.dll
+F:\gmly\LeetTerbilang-master\TerbilangLibrary\bin\Debug\TerbilangLibrary.pdb
+F:\gmly\LeetTerbilang-master\TerbilangLibrary\obj\Debug\TerbilangLibrary.csprojAssemblyReference.cache
+F:\gmly\LeetTerbilang-master\TerbilangLibrary\obj\Debug\TerbilangLibrary.csproj.CoreCompileInputs.cache
+F:\gmly\LeetTerbilang-master\TerbilangLibrary\obj\Debug\TerbilangLibrary.dll
+F:\gmly\LeetTerbilang-master\TerbilangLibrary\obj\Debug\TerbilangLibrary.pdb
